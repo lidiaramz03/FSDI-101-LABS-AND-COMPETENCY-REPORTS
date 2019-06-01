@@ -1,0 +1,23 @@
+h1{
+   background-color: violet;
+   font-size: 40px;
+   color: gold;
+}
+p {
+    color: rgb(177, 47, 68);
+    font-weight:bold;
+}
+
+h4{ 
+    color: rgb(121, 31, 76);
+    font-size: 12px;
+
+}
+input{
+    color: hotpink;
+    font-weight: bold;
+}
+label{
+    color: rgb(90, 37, 139);
+    font-weight: violet;
+}
